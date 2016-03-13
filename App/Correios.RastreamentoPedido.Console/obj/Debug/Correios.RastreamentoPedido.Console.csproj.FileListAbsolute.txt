@@ -1,0 +1,6 @@
+D:\Projects\Correios\Correios.RastreamentoPedido\App\Correios.RastreamentoPedido.Console\bin\Debug\Correios.RastreamentoPedido.Console.exe.config
+D:\Projects\Correios\Correios.RastreamentoPedido\App\Correios.RastreamentoPedido.Console\bin\Debug\Correios.RastreamentoPedido.Console.exe
+D:\Projects\Correios\Correios.RastreamentoPedido\App\Correios.RastreamentoPedido.Console\bin\Debug\Correios.RastreamentoPedido.Console.pdb
+D:\Projects\Correios\Correios.RastreamentoPedido\App\Correios.RastreamentoPedido.Console\obj\Debug\Correios.RastreamentoPedido.Console.csprojResolveAssemblyReference.cache
+D:\Projects\Correios\Correios.RastreamentoPedido\App\Correios.RastreamentoPedido.Console\obj\Debug\Correios.RastreamentoPedido.Console.exe
+D:\Projects\Correios\Correios.RastreamentoPedido\App\Correios.RastreamentoPedido.Console\obj\Debug\Correios.RastreamentoPedido.Console.pdb
